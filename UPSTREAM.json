@@ -1,0 +1,407 @@
+{
+  "repository": "https://github.com/sandark7/DE26",
+  "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
+  "assets": [
+    {
+      "path": "ActayWide-Bold.woff",
+      "upstream_blob": "5b40be2996ff09502643fde61df3df1bdfa3d435"
+    },
+    {
+      "path": "ActayWide-Bold.woff2",
+      "upstream_blob": "56c84a9a4fb4f9500a25fa466ba8ebd7738cef8d"
+    },
+    {
+      "path": "pictures/bg1.jpg",
+      "upstream_blob": "9fa1bab8797a8be839ba2140e2d6adf541ba372b"
+    },
+    {
+      "path": "pictures/bg10.jpg",
+      "upstream_blob": "a02d2ad6f128a92507f0e945b794868d95bf5476"
+    },
+    {
+      "path": "pictures/bg11.jpg",
+      "upstream_blob": "049728bb60d00103aa972e992e410f8ab762d210"
+    },
+    {
+      "path": "pictures/bg12.jpg",
+      "upstream_blob": "a3427b937d33840aced7e7f5848f6ad4d319ebbe"
+    },
+    {
+      "path": "pictures/bg13.jpg",
+      "upstream_blob": "c6459fbb13a899204c0445b6836ec5a067009570"
+    },
+    {
+      "path": "pictures/bg14.jpg",
+      "upstream_blob": "7a85b682d6295d93111c194a7db054423949bc1a"
+    },
+    {
+      "path": "pictures/bg15.jpg",
+      "upstream_blob": "ca5391c83dc5e0f9175ae83051793459487ffe49"
+    },
+    {
+      "path": "pictures/bg16.jpg",
+      "upstream_blob": "3f7245bf1885388803e54cb997919ae93f120271"
+    },
+    {
+      "path": "pictures/bg17.jpg",
+      "upstream_blob": "7df4c5a4b0be0dbbd0a6033ab67f0c143b72f17c"
+    },
+    {
+      "path": "pictures/bg18.jpg",
+      "upstream_blob": "198253f29e633080a92549759b99c562199addb5"
+    },
+    {
+      "path": "pictures/bg19.jpg",
+      "upstream_blob": "46b55731132ec9f077818d998a17ac60d376a6a6"
+    },
+    {
+      "path": "pictures/bg2.jpg",
+      "upstream_blob": "c3efd4d5a224aafcc5cfa3b01c831a6c247c91a4"
+    },
+    {
+      "path": "pictures/bg20.jpg",
+      "upstream_blob": "6efa081197be6bf0b7c35a13665b82f048484507"
+    },
+    {
+      "path": "pictures/bg3.jpg",
+      "upstream_blob": "dfe768ef0e21a3b8a7d4c204b38a4da8ae078629"
+    },
+    {
+      "path": "pictures/bg4.jpg",
+      "upstream_blob": "88d01990ec8463a538540475db3841c1897d4941"
+    },
+    {
+      "path": "pictures/bg5.jpg",
+      "upstream_blob": "1b1fbf65e53bec5f783d82799e34790c24dcef45"
+    },
+    {
+      "path": "pictures/bg6.jpg",
+      "upstream_blob": "eecea68f4d656b84a369f3752fa6bd7bfa63621a"
+    },
+    {
+      "path": "pictures/bg7.jpg",
+      "upstream_blob": "633a56dc5da5223d5ccbfbb2e7a75ab44f5555e6"
+    },
+    {
+      "path": "pictures/bg8.jpg",
+      "upstream_blob": "7c92e59cb54b145013e007a232abccdf67513f18"
+    },
+    {
+      "path": "pictures/bg9.jpg",
+      "upstream_blob": "99fae83d96b46f86358f5918677b07a328fa104c"
+    },
+    {
+      "path": "pictures/manager.jpeg",
+      "upstream_blob": "03905e53ebf9532c8691e757523936721e2d04f7"
+    },
+    {
+      "path": "pictures/question.jpeg",
+      "upstream_blob": "0d72c065f732ffba224ae0a198bf2464f5acbf8c"
+    },
+    {
+      "path": "pictures/stories.jpeg",
+      "upstream_blob": "e622dd339b3504a9c37e989c253b94ae48dda73f"
+    },
+    {
+      "path": "pictures/very-bad.jpeg",
+      "upstream_blob": "4f2c679a461815e7ad10d946b1e54f965e6f3770"
+    },
+    {
+      "path": "shower/shower.min.js",
+      "upstream_blob": "41acfb330d56c6e9baf74b0199db6e1efc145e69"
+    },
+    {
+      "path": "shower/themes/ribbon/LICENSE.md",
+      "upstream_blob": "7b5527bd8fa9f734cc939383cff8ec97b54527f4"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/LICENSE.txt",
+      "upstream_blob": "fd5c2e25472b83c36686087122f45cb2c3b8f350"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-mono-regular.woff2",
+      "upstream_blob": "8b111fdf3b7235c81045003655fce73f5e59ecc8"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-sans-bold-italic.woff2",
+      "upstream_blob": "458fa62fb2c659ac858a3215fb3864d48ca535b3"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-sans-bold.woff2",
+      "upstream_blob": "3eed0b175a9d359dfa8f87e6f326470600609d2f"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-sans-italic.woff2",
+      "upstream_blob": "3ad3901a75789de1db67e39b16bea7f4fd9dc956"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-sans-narrow-bold.woff2",
+      "upstream_blob": "5477766038c4b47780548e1595ad6aa189c8054b"
+    },
+    {
+      "path": "shower/themes/ribbon/fonts/pt-sans-regular.woff2",
+      "upstream_blob": "0b7abb3b368463978781a19bb5d57c5aa408b308"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/blocks/badge.css",
+      "upstream_blob": "1911c5046b0b04ee3f0a4ad8f14cad6b83c8bf81"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/blocks/caption.css",
+      "upstream_blob": "b262fa944a31398b8f54ad4cedf644a498a48a09"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/blocks/progress.css",
+      "upstream_blob": "8bba8a54ac96bebf0aa0671d51f66416f429e2e6"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/blocks/region.css",
+      "upstream_blob": "555594852f88a625e5002ff4f318d645837b5cb5"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/fonts.css",
+      "upstream_blob": "3d93d00d95809339777c43c5aa2e54a119cd84b7"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/grid.svg",
+      "upstream_blob": "2e82fb6bc73cba4106eb17349e1771b463b5f4e5"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/shower-full.css",
+      "upstream_blob": "ca90fc98a51a5a2f6eec9ef33794ee647cb50379"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/shower-grid.css",
+      "upstream_blob": "c96deceb2a2fd45875343485f9727b5fc20fdf1b"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/shower-list.css",
+      "upstream_blob": "f1b5f1d1550b54129d524400f2f1c3a8b47c6680"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/shower-print.css",
+      "upstream_blob": "b2ef7059ca746f14c0c873b72982a74de3ed779e"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/shower/shower.css",
+      "upstream_blob": "f3a2fc7b6cd8a7e11380aeb9c55c7d9d5885f894"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/basic.css",
+      "upstream_blob": "59fa66f667c925d51751158e1e93364a15b94d6b"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/code.css",
+      "upstream_blob": "76014163abcd48cab2c09506ec020fce0bde11dd"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/footer.css",
+      "upstream_blob": "b0e7510fb21273f7d837cba0a078e89e15861e6f"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/inline.css",
+      "upstream_blob": "b514a3dc317c2ca3897ffc373e7393a21bcbdff7"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/lists.css",
+      "upstream_blob": "8a7a1953bc139c8dfebfb1e519d5cb6231166be6"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/quote.css",
+      "upstream_blob": "d61c12f48723a85c89e57e64383714b4c39b6fef"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/content/table.css",
+      "upstream_blob": "89300d5385b4504c4be4b5f8174ecceae0ffb48a"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/columns.css",
+      "upstream_blob": "6b553ca0014e150937c8c565523eeb19245fae9e"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/copyright.css",
+      "upstream_blob": "ab42208fe9fd708da8e2e151330163a0fa2cd9e2"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/cover.css",
+      "upstream_blob": "eb71dd4904d75908b4262aba58149bb3321270fe"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/next.css",
+      "upstream_blob": "43f2324cb17bf4ee1168603af3e81396c269bc2f"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/place.css",
+      "upstream_blob": "005b30222d7ff71269b3b1d966bb9da0c7733837"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/elements/shout.css",
+      "upstream_blob": "7f68983f45926e81d03331a7f16cafa8abf3794e"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/modifiers/black.css",
+      "upstream_blob": "8a443eed55d9866a4bffc011a271e4b11e9108bc"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/modifiers/clear.css",
+      "upstream_blob": "d695cde8bded550230fd90d20a9275692a2646f8"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/modifiers/gray.css",
+      "upstream_blob": "84bebac9cc962fdd373d3f3e98d9e8a9d2acbf12"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/ribbon.svg",
+      "upstream_blob": "88b7b65ce35491973195e1fa2109a645b5e2e5d3"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/slide-full.css",
+      "upstream_blob": "bc416991ed03799d177ec815fc24a653b16f2d06"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/slide-list.css",
+      "upstream_blob": "7ebe587a9ec3e4fa89a274b95c5dd342cdc7c38a"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/slide/slide.css",
+      "upstream_blob": "2534d5960d0a0ba0cb86a8d78fa71a6f81c1bd43"
+    },
+    {
+      "path": "shower/themes/ribbon/styles/styles.css",
+      "upstream_blob": "daf2cd77353387e8da37da476c7543c4284c8072"
+    },
+    {
+      "path": "slides.css",
+      "upstream_blob": "af9471a02b769397fe2afea1d0b81f30b221ef52"
+    },
+    {
+      "path": "theme.css",
+      "upstream_blob": "a2f6f784195afb6d7463a234f1178a2eb8c4feb3"
+    },
+    {
+      "path": "pictures/qrcode-tg.png",
+      "upstream_blob": "84fdbb82132ba27394fe51acc2406e2bcdd09bb3"
+    },
+    {
+      "path": "pictures/rebranding.png",
+      "upstream_blob": "b1b68e0393fee58435e8f813974ec8c57b729036"
+    },
+    {
+      "path": "pictures/logo-magnit.svg",
+      "upstream_blob": "3799edf06ebf4b39ed41bd2856c2926221ea319f"
+    },
+    {
+      "path": "pictures/cto_logo.png",
+      "upstream_blob": "779ba473b05ee141347867b9b2a6de8270934f0c"
+    },
+    {
+      "path": "pictures/sw_ava_300.png",
+      "upstream_blob": "c866627316c933cc92a0440beb875919783a7612"
+    },
+    {
+      "path": "pictures/colored.png",
+      "upstream_blob": "6d931e1c83d31432e1b912281ec7575c730b7cc3"
+    }
+  ],
+  "additional_images": [
+    {
+      "slide": "ai-fever",
+      "repository": "https://github.com/sandark7/PSC25",
+      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
+      "path": "pictures/magic.gif",
+      "local_path": "pictures/gh-psc25-magic.gif",
+      "upstream_blob": "7a00cb27abd258bf52bc03362701d63080cebaf0",
+      "purpose": "Ожидание магии от ИИ."
+    },
+    {
+      "slide": "bigger-idea",
+      "repository": "https://github.com/sandark7/PSC25",
+      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
+      "path": "pictures/super.jpeg",
+      "local_path": "pictures/gh-psc25-super.jpeg",
+      "upstream_blob": "d9b5a4bce9423d5017e003c7ad6fd79197cd39a2",
+      "purpose": "Сверхсила для более амбициозной задачи."
+    },
+    {
+      "slide": "good-result",
+      "repository": "https://github.com/sandark7/GMS26",
+      "commit": "11983d2beee285ead4ee89033b4473c1dbe4c8db",
+      "path": "pictures/change.jpeg",
+      "local_path": "pictures/gh-gms26-change.jpeg",
+      "upstream_blob": "b2b65ccb2c3bab7dbf3f4c26020170a30edcbc24",
+      "purpose": "Реплика «Меняй» поддерживает разворот исходной идеи."
+    },
+    {
+      "slide": "new-goal",
+      "repository": "https://github.com/sandark7/CF25",
+      "commit": "29a1dc9a33df4fd662b909690621552dafe84f6c",
+      "path": "pictures/hurry.jpeg",
+      "local_path": "pictures/gh-cf25-hurry.jpeg",
+      "upstream_blob": "b59fdb74d06dfb9db5e7ab73aaf48fb75b94c9a7",
+      "purpose": "Скорость как новая цель помощи приёмщику."
+    },
+    {
+      "slide": "start-photo",
+      "repository": "https://github.com/sandark7/PSC25",
+      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
+      "path": "pictures/gocat.jpg",
+      "local_path": "pictures/gh-psc25-gocat.jpg",
+      "upstream_blob": "8648b611d8d007d26596776d530e5cae2c150c6e",
+      "purpose": "Котики вперёд: переходим от замысла к первому эксперименту."
+    },
+    {
+      "slide": "explain-correct",
+      "repository": "https://github.com/sandark7/DE26",
+      "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
+      "path": "pictures/specialist.jpg",
+      "local_path": "pictures/gh-de26-specialist.jpg",
+      "upstream_blob": "69981c6cf056906cd5f3600530ba2c62cc0af3aa",
+      "purpose": "Объяснить проверку понятно до написания промпта."
+    },
+    {
+      "slide": "ready-vlm",
+      "repository": "https://github.com/sandark7/PSC25",
+      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
+      "path": "pictures/neuron.jpg",
+      "local_path": "pictures/gh-psc25-neuron.jpg",
+      "upstream_blob": "ebbde8511ae5f80b7705957e7c9f8f2059408522",
+      "purpose": "Изображение нейросети рядом с объяснением готовой VLM."
+    },
+    {
+      "slide": "nuances",
+      "repository": "https://github.com/sandark7/SM25",
+      "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
+      "path": "pictures/melochi.jpeg",
+      "local_path": "pictures/gh-sm25-melochi.jpeg",
+      "upstream_blob": "6c43054159088f378d72b350cc90ae22d7a1d5cc",
+      "purpose": "Мелочи жизни: начинаются детали реальной проверки."
+    },
+    {
+      "slide": "weight-of-what",
+      "repository": "https://github.com/sandark7/PM25",
+      "commit": "269c3ff62020846797c59914ce3b6ad026dcf7f6",
+      "path": "pictures/notsure.jpg",
+      "local_path": "pictures/gh-pm25-notsure.jpg",
+      "upstream_blob": "482cbca78cb21fd477b7e8960d959fc3b01e067e",
+      "purpose": "Сомнение после уверенного распознавания числа."
+    },
+    {
+      "slide": "human-decides",
+      "repository": "https://github.com/sandark7/SM25",
+      "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
+      "path": "pictures/approved.jpeg",
+      "local_path": "pictures/gh-sm25-approved.jpeg",
+      "upstream_blob": "003672c119e7ecd85745293608968ee17fa82458",
+      "purpose": "Согласовано: финальное подтверждение остаётся за человеком."
+    },
+    {
+      "slide": "easy-start",
+      "repository": "https://github.com/sandark7/PSC25",
+      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
+      "path": "pictures/happy.png",
+      "local_path": "pictures/gh-psc25-happy.png",
+      "upstream_blob": "430d38112dcd64c59b21145f65df37e7db432ad2",
+      "purpose": "Удовольствие от первого понятного результата."
+    }
+  ]
+}
